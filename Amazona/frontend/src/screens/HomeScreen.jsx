@@ -1,5 +1,6 @@
 import { Link } from 'react-router-dom';
 import data from '../data';
+
 function HomeScreen() {
   return (
     <div>

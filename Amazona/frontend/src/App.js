@@ -1,4 +1,4 @@
-import data from './data';
+// import data from './data';
 
 import { BrowserRouter, Routes, Route, Link } from 'react-router-dom';
 import HomeScreen from './screens/HomeScreen.jsx';

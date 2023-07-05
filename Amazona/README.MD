@@ -10,4 +10,8 @@
 6.  Add Routing
 7.  Create Node.Js Server
     1. run npm init in root folder
-    2. Fetch Products
+8.  Fetch Products From Backend
+    1.  Set proxy in package.json
+    2.  npm install axios
+    3.  use state hook
+    4.  use effect hook
